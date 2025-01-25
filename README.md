@@ -4,21 +4,21 @@
 
 模型：
 
-[vit-pytorch]: https://github.com/lucidrains/vit-pytorch	"vit-pytorch"
+[vit-pytorch](https://github.com/lucidrains/vit-pytorch	"vit-pytorch")
 
 模型参数：
 
 ```json
 {
-image_size: 256,
-patch_size: 32,
-num_classes: 10,
-dim: 512,
-depth: 4,
-heads: 4,
-mlp_dim: 512,
-dropout: 0.1,
-emb_dropout: 0.1
+"image_size": 256,
+"patch_size": 32,
+"num_classes": 10,
+"dim": 512,
+"depth": 4,
+"heads": 4,
+"mlp_dim": 512,
+"dropout": 0.1,
+"emb_dropout": 0.1
 }
 ```
 
